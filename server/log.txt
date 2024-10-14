@@ -1,14 +1,10 @@
-1726907174317:New Request Received
-1726907174385:New Request Received
-1726907275341:/ New Request Received
-1726907275397:/favicon.ico New Request Received
-1726907275487:/ New Request Received
-1726907275539:/favicon.ico New Request Received
-1726907312917:/about New Request Received
-1726907313003:/favicon.ico New Request Received
-1726907480527:/about New Request Received
-1726907480597:/favicon.ico New Request Received
-1726907486631:/ New Request Received
-1726907486704:/favicon.ico New Request Received
-1726907492210:/hi New Request Received
-1726907492271:/favicon.ico New Request Received
+1728713087151: GET / New Request Received
+1728713107497: GET /about New Request Received
+1728713124789: GET /about New Request Received
+1728713267299: GET /about New Request Received
+1728713272504: GET / New Request Received
+1728713526392: GET / New Request Received
+1728713531823: GET /signup New Request Received
+1728713736893: GET /about New Request Received
+1728713750726: GET /signup New Request Received
+1728713763412: GET / New Request Received
